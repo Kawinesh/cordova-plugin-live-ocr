@@ -1,0 +1,37 @@
+{
+  "name": "cordova-plugin-live-ocr",
+  "version": "1.0",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Kawinesh/cordova-plugin-live-ocr"
+  },
+  "cordova": {
+    "id": "cordova-plugin-live-ocr",
+    "platforms": [
+      "android",
+      "ios"
+    ]
+  },
+  "keywords": [
+    "cordova",
+    "text",
+    "ocr",
+    "ML Kit",
+    "machine learning",
+    "text recognition",
+    "optical",
+    "character",
+    "recognition",
+    "ecosystem:cordova",
+    "cordova-android",
+    "cordova-ios",
+    "mobile ocr"
+  ],
+  "engines": {
+    "cordovaDependencies": {
+      "cordova-android": ">=3.6.0",
+      "cordova-ios": ">=4.3.0"}
+  },
+  "author": "DavidStrausz",
+  "description": "cordova plugin for mobile ocr text recognition"
+}
